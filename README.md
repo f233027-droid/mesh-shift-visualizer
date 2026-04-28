@@ -55,7 +55,7 @@ mesh-shift-visualizer/
 ## ⚙️ Local Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mesh-shift-visualizer.git
+   git clone https://github.com/f233027-droid/mesh-shift-visualizer.git
    ```
 2. **Navigate to the directory**:
    ```bash

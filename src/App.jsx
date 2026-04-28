@@ -108,7 +108,7 @@ function App() {
         
         <div className="flex items-center gap-6">
           <a 
-            href="https://github.com/yourusername/mesh-shift-visualizer" 
+            href="https://github.com/f233027-droid/mesh-shift-visualizer/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white transition-all flex items-center gap-2 group bg-gray-800/50 px-4 py-2 rounded-full border border-gray-700 hover:border-gray-500"
