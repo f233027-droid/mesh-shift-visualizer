@@ -1,7 +1,7 @@
 # Mesh Circular Shift Visualizer
 
 ## 🚀 Live Demo
-[Live URL — https://mesh-circular-shift-visualizer.vercel.app]
+[Live URL — https://mesh-shift-visualizer-eta.vercel.app/]
 
 ## 📋 Overview
 The **Mesh Circular Shift Visualizer** is an educational tool designed to demonstrate the efficiency of 2D mesh topologies in parallel computing. It visualizes the **circular q-shift** operation, where data from node *i* is moved to node *(i + q) mod p*. By decomposing a global shift into structured row and column stages, the mesh topology significantly reduces the total communication hops compared to a simple ring network.
